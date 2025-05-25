@@ -8,3 +8,5 @@
 
 #### Regions included are:
 ##### West, East, and Midwest
+
+###### Data Source: https://www.earthdata.nasa.gov/topics/human-dimensions/nighttime-lights
